@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Focus Check</string>
+    <string name="app_description">Task planning, progress check-ins, and focused reminders.</string>
+</resources>
